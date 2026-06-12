@@ -1,4 +1,4 @@
-# Rce-time-prediction-F1
+# Race-time-prediction-F1
 # 🏎️ Formula 1 Race Time Prediction
 
 ## 📌 Project Overview
