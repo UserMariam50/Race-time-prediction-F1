@@ -84,4 +84,4 @@ This shows that a simpler model generalized better than more complex models on t
 
 ## 🚀 How to Run the Project
 
-Clone the repository:
+Clone the repository
