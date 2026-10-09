@@ -1,4 +1,4 @@
-# Race-time-prediction-F1
+# Formula 1 Pit Stop Duration Prediction
 # 🏎️ Formula 1 Pit Stop Duration Prediction
 
 ## 📌 Project Overview
