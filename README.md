@@ -1,11 +1,11 @@
 # Race-time-prediction-F1
-# 🏎️ Formula 1 Race Time Prediction
+# 🏎️ Formula 1 Pit Stop Duration Prediction
 
 ## 📌 Project Overview
 
-This project is a Machine Learning pipeline built to predict Formula 1 race times using historical data from the Kaggle Formula 1 dataset (1950–2020).
+This project is a Machine Learning pipeline designed to predict Formula 1 pit stop duration using historical data from the Kaggle Formula 1 World Championship dataset (1950–2020).
 
-The goal is to explore race data, engineer meaningful features, and compare multiple regression models to achieve the best prediction performance.
+The objective is to analyze historical pit stop data, engineer relevant features, and compare regression models to estimate pit stop duration in milliseconds.
 
 ---
 
